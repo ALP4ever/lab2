@@ -1,1 +1,1 @@
-print('bebra')
+print('bebra lya ti krisa')
